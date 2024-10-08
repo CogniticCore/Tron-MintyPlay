@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+motor[srv]
+beanie
+python-dotenv
+pydantic[email]
+logging
+tronpy
